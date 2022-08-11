@@ -3,7 +3,7 @@
 ### By Thalloju Shivaram
 
 
-## 🔗Live Link -: [Crypto Landing Page]()
+## 🔗Live Link -: [Crypto Landing Page](https://crypto-lan.netlify.app/)
  
 
 ---
